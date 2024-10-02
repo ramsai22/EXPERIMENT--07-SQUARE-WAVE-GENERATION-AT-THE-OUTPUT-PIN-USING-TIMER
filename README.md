@@ -1,4 +1,4 @@
-# EXPERIMENT--06-SQUARE-WAVE-GENERATION-AT-THE-OUTPUT-PIN-USING-TIMER
+
 ## Date : 30-09-2024
 ## Name: paida ram sai
 ## Reg.No: 212223110034
@@ -185,12 +185,15 @@ void assert_failed(uint8_t *file, uint32_t line)
 ```
 
 ## Output screen shots of proteus  :
- ![Screenshot (2)](https://github.com/user-attachments/assets/73434f88-7808-446b-87a2-7c74c10b7a37)
+
+![image](https://github.com/user-attachments/assets/55f39041-0dba-405c-997c-977654945f76)
+
 
  
  ## CIRCUIT DIAGRAM (EXPORT THE GRAPHICS TO PDF AND ADD THE SCREEN SHOT HERE): 
 
- ![image](https://github.com/user-attachments/assets/241f8396-0262-4df3-8d7a-60031a73c82a)
+![image](https://github.com/user-attachments/assets/2f9c8071-f39d-40d6-82fd-ecdc45fc742b)
+
 
 
 ## DUTY CYCLE AND FREQUENCY CALCULATION 
